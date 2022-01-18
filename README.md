@@ -1,16 +1,13 @@
-### Hi there 👋
+### 
 
-<!--
-**renata-nerenata/renata-nerenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
 
-Here are some ideas to get you started:
+Hi! My name is Renata Mutalova. I am Software Developer & Data Scientist. I focus on and analyizing data and building solutions using ML and RL approaches in different areas of science and business. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently based between Montreal and Moscow.
+
+I am Enthusiastic, team player, positive and self-driven personality. You can contact me if you have opportunities, any questions, or talk about interesting projects.
+
+PhD Computer Science @ McGill University
+Data Scientist @ SberMarket
+
