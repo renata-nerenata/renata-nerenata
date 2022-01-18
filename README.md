@@ -1,6 +1,6 @@
 ### 
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Hi! My name is Renata Mutalova. I am Software Developer & Data Scientist. I focus on and analyizing data and building solutions using ML and RL approaches in different areas of science and business. 
 
