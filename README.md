@@ -9,6 +9,3 @@ I am currently based between Montreal and Moscow.
 I am Enthusiastic, team player, positive and self-driven personality. You can contact me if you have opportunities, any questions, or talk about interesting projects.
 
 PhD Computer Science @ McGill University
-
-Data Scientist @ SberMarket
-
