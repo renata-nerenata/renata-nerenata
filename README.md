@@ -4,7 +4,7 @@
 
 Hi! My name is Renata Mutalova. I am Software Developer & Data Scientist. I focus on and analyizing data and building solutions using ML and RL approaches in different areas of science and business. 
 
-I am currently based between Montreal and Moscow.
+I am currently based between Montreal and Moscow. The content of this page focuses on the projects I work on related to Computer Science, as well as other off-topic discussions. 
 
 I am Enthusiastic, team player, positive and self-driven personality. You can contact me if you have opportunities, any questions, or talk about interesting projects.
 
