@@ -1,6 +1,7 @@
 ### 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-mutalova-b68317196/)
+[![image](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedPercentage&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRenata_Nerenata&logo=leetcode&logoColor=yellow)]
 
 Hi! My name is Renata Mutalova. I am Software Developer & Data Scientist. I focus on and analyizing data and building solutions using ML and RL approaches in different areas of science and business. 
 
