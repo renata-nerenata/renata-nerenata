@@ -5,7 +5,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-Hi! My name is Renata Mutalova. I am Software Developer & Data Scientist. I focus on and analyizing data and building solutions using ML and RL approaches in different areas of science and business. 
+Hi! My name is Renata. I am Software Developer & Data Scientist. I focus on and analyizing data and building solutions using ML and RL approaches in different areas of science and business. 
 
 I am currently based between Montreal and Moscow. The content of this page focuses on the projects I work on related to Computer Science, as well as other off-topic discussions. 
 
